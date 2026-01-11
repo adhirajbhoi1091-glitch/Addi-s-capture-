@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Addi's Capture | Video & Graphics</title>
+  <style>
+    body {font-family: Arial, sans-serif; margin:0; padding:0;}
+    header {background:#2c3e50; color:white; padding:15px; text-align:center;}
+    nav {background:#34495e; padding:10px; text-align:center;}
+    nav a {color:white; margin:0 15px; text-decoration:none; font-weight:bold;}
+    section {padding:20px;}
+    .products {display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:15px;}
+    .card {border:1px solid #ccc; padding:15px; border-radius:8px; text-align:center;}
+    footer {background:#2c3e50; color:white; text-align:center; padding:10px;}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Addi's Capture</h1>
+  <p>Video & Graphics Studio | व्हिडिओ आणि ग्राफिक्स स्टुडिओ</p>
+</header>
+
+<nav>
+  <a href="#home">Home / मुख्यपृष्ठ</a>
+  <a href="#about">About / माहिती</a>
+  <a href="#products">Products / उत्पादने</a>
+  <a href="#contact">Contact / संपर्क</a>
+</nav>
+
+<section id="home">
+  <h2>Welcome | स्वागत आहे</h2>
+  <p>Welcome to Addi's Capture – Professional Video Editing, Photography and Graphic Design services.</p>
+  <p>Addi's Capture मध्ये आपले स्वागत आहे – प्रोफेशनल व्हिडिओ एडिटिंग, फोटोग्राफी आणि ग्राफिक डिझाईन सेवा.</p>
+</section>
+
+<section id="about">
+  <h2>About Us | आमच्याबद्दल</h2>
+  <p>Addi's Capture is a creative studio based in PCMC providing high quality video and graphic solutions.</p>
+  <p>Addi's Capture हे PCMC मधील एक क्रिएटिव्ह स्टुडिओ असून आम्ही दर्जेदार व्हिडिओ व ग्राफिक्स सेवा पुरवतो.</p>
+</section>
+
+<section id="products">
+  <h2>Our Services | आमच्या सेवा</h2>
+  <div class="products">
+    <div class="card">
+      <h3>Video Editing</h3>
+      <p>Reels, YouTube, Events</p>
+    </div>
+    <div class="card">
+      <h3>Photography</h3>
+      <p>Product, Event, Portrait</p>
+    </div>
+    <div class="card">
+      <h3>Graphic Design</h3>
+      <p>Poster, Banner, Logo</p>
+    </div>
+  </div>
+</section>
+
+<section id="contact">
+  <h2>Contact Us | संपर्क</h2>
+  <p>Location: PCMC, Maharashtra</p>
+  <p>WhatsApp: Add your number</p>
+  <p>Email: addiscapture@email.com</p>
+</section>
+
+<footer>
+  <p>© 2026 My Shop | Free Website</p>
+</footer>
+
+</body>
+</html>
