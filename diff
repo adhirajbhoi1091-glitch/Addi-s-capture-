@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Addi’s Capture | Video & Graphics</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0f0f0f;
+      color: white;
+      text-align: center;
+    }
+    header {
+      padding: 40px 20px;
+    }
+    h1 {
+      color: #ff004f;
+    }
+    section {
+      padding: 20px;
+    }
+    footer {
+      background: #111;
+      padding: 10px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Addi’s Capture</h1>
+  <p>Video Editing & Graphic Design</p>
+  <p>PCMC</p>
+</header>
+
+<section>
+  <h2>Services</h2>
+  <p>🎬 Video Editing</p>
+  <p>🎨 Graphic Design</p>
+  <p>📸 Creative Visuals</p>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>WhatsApp: 9XXXXXXXXX</p>
+</section>
+
+<footer>
+  © 2026 Addi’s Capture
+</footer>
+
+</body>
+</html>
